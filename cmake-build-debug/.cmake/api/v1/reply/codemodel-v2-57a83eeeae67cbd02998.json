@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CppTask4GraphLayers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CppTask4GraphLayers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CppTask4GraphLayers-Debug-5125a2dad5b64a3bde92.json",
+					"name" : "CppTask4GraphLayers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CppTask4GraphLayers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CppTask4GraphLayers_autogen-Debug-1da4923ecad328984ab3.json",
+					"name" : "CppTask4GraphLayers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CppTask4GraphLayers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CppTask4GraphLayers_autogen_timestamp_deps-Debug-060d4527af6991250ed6.json",
+					"name" : "CppTask4GraphLayers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CppTask4GraphLayers/cmake-build-debug",
+		"source" : "C:/CppTask4GraphLayers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

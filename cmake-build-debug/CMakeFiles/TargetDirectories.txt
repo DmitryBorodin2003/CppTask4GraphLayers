@@ -1,0 +1,5 @@
+C:/CppTask4GraphLayers/cmake-build-debug/CMakeFiles/CppTask4GraphLayers.dir
+C:/CppTask4GraphLayers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CppTask4GraphLayers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/CppTask4GraphLayers/cmake-build-debug/CMakeFiles/CppTask4GraphLayers_autogen_timestamp_deps.dir
+C:/CppTask4GraphLayers/cmake-build-debug/CMakeFiles/CppTask4GraphLayers_autogen.dir

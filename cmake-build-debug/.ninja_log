@@ -1,0 +1,16 @@
+# ninja log v6
+5	667	7391611936443001	CppTask4GraphLayers_autogen/timestamp	9519284b0ef3f7b9
+5	667	7391611936443001	CppTask4GraphLayers_autogen/mocs_compilation.cpp	9519284b0ef3f7b9
+5	667	7391611936443001	C:/CppTask4GraphLayers/cmake-build-debug/CppTask4GraphLayers_autogen/timestamp	9519284b0ef3f7b9
+5	667	7391611936443001	C:/CppTask4GraphLayers/cmake-build-debug/CppTask4GraphLayers_autogen/mocs_compilation.cpp	9519284b0ef3f7b9
+673	1243	7391611937063019	CMakeFiles/CppTask4GraphLayers.dir/cpp/Logger.cpp.obj	4aa7fd49f43ec428
+670	2279	7391611937023007	CMakeFiles/CppTask4GraphLayers.dir/main.cpp.obj	7b193e62a52bdb3d
+667	2733	7391611936993002	CMakeFiles/CppTask4GraphLayers.dir/CppTask4GraphLayers_autogen/mocs_compilation.cpp.obj	49c57934414b9e0b
+677	3545	7391611937093011	CMakeFiles/CppTask4GraphLayers.dir/cpp/App.cpp.obj	f37121b07456c574
+3546	3867	7391611965782989	CppTask4GraphLayers.exe	2920cb46a1c3100a
+18	107	7391612107322748	CppTask4GraphLayers_autogen/timestamp	9519284b0ef3f7b9
+18	107	7391612107322748	CppTask4GraphLayers_autogen/mocs_compilation.cpp	9519284b0ef3f7b9
+18	107	7391612107322748	C:/CppTask4GraphLayers/cmake-build-debug/CppTask4GraphLayers_autogen/timestamp	9519284b0ef3f7b9
+18	107	7391612107322748	C:/CppTask4GraphLayers/cmake-build-debug/CppTask4GraphLayers_autogen/mocs_compilation.cpp	9519284b0ef3f7b9
+107	1867	7391612108222766	CMakeFiles/CppTask4GraphLayers.dir/main.cpp.obj	7b193e62a52bdb3d
+1867	2185	7391612125812757	CppTask4GraphLayers.exe	2920cb46a1c3100a
